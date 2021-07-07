@@ -1,1 +1,1 @@
-# virus-tracking-java-app
+# Virus Tracking Java Application
